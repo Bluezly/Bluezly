@@ -43,7 +43,7 @@ Creative developer passionate about crafting elegant solutions and pushing techn
 href="https://github.com/bluezly/project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=project-1&theme=radical&hide_border=true" />
  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BluezlyE&repo=project-2&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=project-1&theme=radical&hide_border=true" />
   </a>
 </div>
 
