@@ -114,11 +114,11 @@ class BluezlyDeveloper implements DeveloperPhilosophy {
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/bluezly/portfolio">
+        <a href="https://github.com/bluezly/bluezly">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
         </a>
         <br>
-        <img src="https://img.shields.io/badge/🌟_Featured-Portfolio_Website-FF6B35?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🌟_Bluezly Readme-FF6B35?style=for-the-badge&labelColor=000000" />
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/bluezly/ai-dashboard">
@@ -134,19 +134,12 @@ class BluezlyDeveloper implements DeveloperPhilosophy {
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
         </a>
         <br>
-        <img src="https://img.shields.io/badge/💰_Enterprise-E_Commerce-success?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🛒_Ecommerce_Platform-00F5FF?style=for-the-badge&labelColor=000000" />
       </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/bluezly/blockchain-voting">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=blockchain-voting&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/⛓️_Blockchain-Voting_System-blueviolet?style=for-the-badge&labelColor=000000" />
-      </td>
+      <td></td> <!-- مكان فاضي، تقدر تضيف مشروع رابع مستقبلاً -->
     </tr>
   </table>
 </div>
-
 <br>
 
 ## 📊 PERFORMANCE ANALYTICS
@@ -235,10 +228,10 @@ class BluezlyDeveloper implements DeveloperPhilosophy {
   <a href="https://www.bluezly.exid.me/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Universe-FF6C37?style=for-the-badge&labelColor=000000&logo=firefox&logoColor=white" />
   </a>
-  <a href="mailto:contact@bluezly.exid.me">
+  <a href="mailto:bluezlydrops@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Let's_Collaborate-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://calendly.com/bluezly" target="_blank">
+  <a href="[https://calendly.com/bluezly](https://calendly.com/ooffaster/)" target="_blank">
     <img src="https://img.shields.io/badge/📅_Schedule-Book_A_Call-00A2FF?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=white" />
   </a>
 </div>
