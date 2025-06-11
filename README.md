@@ -108,39 +108,43 @@ class BluezlyDeveloper implements DeveloperPhilosophy {
 
 <br>
 
-## 🎪 PROJECT SHOWCASE
+## 🚀 Projects
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/bluezly/bluezly">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
+        <a href="https://bluezly.exid.me/projects/age-calculator">
+          <img src="https://img.shields.io/badge/🧓_Age_Calculator-blue?style=for-the-badge&labelColor=000000" />
         </a>
-        <br>
-        <img src="https://img.shields.io/badge/🌟_Bluezly Readme-FF6B35?style=for-the-badge&labelColor=000000" />
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/bluezly/ai-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=ai-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
+        <a href="https://bluezly.exid.me/projects/url-shortener">
+          <img src="https://img.shields.io/badge/🔗_URL_Shortener-orange?style=for-the-badge&labelColor=000000" />
         </a>
-        <br>
-        <img src="https://img.shields.io/badge/🤖_Innovation-AI_Dashboard-00F5FF?style=for-the-badge&labelColor=000000" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/bluezly/ecommerce-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluezly&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" />
+        <a href="https://bluezly.exid.me/projects/quranic-verse-randomizer">
+          <img src="https://img.shields.io/badge/📖_Quranic_Verse_Randomizer-green?style=for-the-badge&labelColor=000000" />
         </a>
-        <br>
-        <img src="https://img.shields.io/badge/🛒_Ecommerce_Platform-00F5FF?style=for-the-badge&labelColor=000000" />
       </td>
-      <td></td> <!-- مكان فاضي، تقدر تضيف مشروع رابع مستقبلاً -->
+      <td align="center" width="50%">
+        <a href="https://bluezly.exid.me/projects/random-images">
+          <img src="https://img.shields.io/badge/🖼️_Random_Images_Site-purple?style=for-the-badge&labelColor=000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://bluezly.exid.me/projects/opiacraft">
+          <img src="https://img.shields.io/badge/🎮_Opiacraft_Game_Server-red?style=for-the-badge&labelColor=000000" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
-<br>
 
 ## 📊 PERFORMANCE ANALYTICS
 
