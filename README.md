@@ -114,31 +114,31 @@ class BluezlyDeveloper implements DeveloperPhilosophy {
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/age-calculator">
+        <a href="https://bluezly.exid.me/projects/">
           <img src="https://img.shields.io/badge/🧓_Age_Calculator-blue?style=for-the-badge&labelColor=000000" />
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/url-shortener">
+        <a href="https://bluezly.exid.me/projects/">
           <img src="https://img.shields.io/badge/🔗_URL_Shortener-orange?style=for-the-badge&labelColor=000000" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/quranic-verse-randomizer">
+        <a href="https://bluezly.exid.me/projects/">
           <img src="https://img.shields.io/badge/📖_Quranic_Verse_Randomizer-green?style=for-the-badge&labelColor=000000" />
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/random-images">
+        <a href="https://bluezly.exid.me/projects/">
           <img src="https://img.shields.io/badge/🖼️_Random_Images_Site-purple?style=for-the-badge&labelColor=000000" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <a href="https://bluezly.exid.me/projects/opiacraft">
+        <a href="https://bluezly.exid.me/projects/">
           <img src="https://img.shields.io/badge/🎮_Opiacraft_Game_Server-red?style=for-the-badge&labelColor=000000" />
         </a>
       </td>
