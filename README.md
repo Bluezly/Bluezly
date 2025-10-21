@@ -37,10 +37,13 @@ I'm a passionate full-stack developer focused on creating efficient, scalable, a
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,svelte,html,css&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,redis,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,redis,nginx,java&theme=dark" />
 
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,firebase,vscode,figma&theme=dark" />
+
+### Libraries & Packages
+<img src="https://test-iota-blush-51.vercel.app/api/badge?pkg=securecrypt" alt="SecureCrypt" />
 
 </div>
 
