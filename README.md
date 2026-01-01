@@ -52,15 +52,16 @@ I'm a passionate full-stack developer focused on creating efficient, scalable, a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluezly&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluezly&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluezly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/brunobritodev/awesome-github-stats">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/bluezly?cardType=level&theme=tokyonight&preferLogin=false"
+      alt="My Awesome GitHub Stats"
+    />
+  </a>
 </div>
 
 <br>
+
 
 ## 🚀 Featured Projects
 
