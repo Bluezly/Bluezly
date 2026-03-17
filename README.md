@@ -1,133 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BLUEZLY&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" />
-</div>
 
-<div align="center">
-  <h3>Full Stack Developer | Creative Problem Solver</h3>
-  <p>Building modern web experiences with clean code and thoughtful design</p>
-</div>
+# Bluezly
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rust+Developer;Backend+Developer;Minecraft+Tools+%26+Plugins;Web+Projects+and+Developer+Tools" />
 
 <br>
 
-<div align="center">
-  <a href="https://www.bluezly.exid.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-bluezly.exid.me-FF6C37?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/in/arab-bram-8b97b6326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=000000&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/itsbluezly" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&labelColor=000000&logo=twitter" />
-  </a>
+<a href="https://bluezly.exid.me">
+  <img src="https://img.shields.io/badge/Website-bluezly.exid.me-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </div>
 
-<br>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate full-stack developer focused on creating efficient, scalable, and user-friendly web applications. I enjoy working with modern technologies and constantly learning new skills to improve my craft.
+Hi, I'm Bluezly.
 
-<br>
+I build backend tools, web utilities, and developer projects.  
+A lot of my work is written in Rust and Java, and I also work on Minecraft plugins and server-related tools.
 
-## 🛠️ Tech Stack
+I use a wide range of technologies depending on the project, including Go, JavaScript, TypeScript, databases, and other backend tooling.
+
+Most of the things here started as experiments, side projects, or tools I wanted to build for myself.
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|-------|-------------|
+| **[KASDVSO](https://github.com/Bluezly/KASDVSO)** | Experimental scripting language runtime written in Rust |
+| **[nayoi](https://github.com/Bluezly/nayoi)** | Lightweight build system and project tool for Minecraft plugins |
+| **[POP-VCS](https://github.com/Bluezly/POP-VCS)** | Lightweight version control system written in Rust with optional server support |
+| **[WebhookLib](https://github.com/WebhookLib/WebhookLib)** | Discord webhook library designed for Roblox server environments |
+
+---
+
+## Technologies
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,svelte,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,java,go,nodejs,ts,js,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,linux,vscode&theme=dark" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,redis,nginx,java&theme=dark" />
+</div>
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,firebase,vscode,figma&theme=dark" />
+---
 
-### Libraries & Packages
+## Package
+
+<div align="center">
+
 <img src="https://test-iota-blush-51.vercel.app/api/badge?pkg=securecrypt" alt="SecureCrypt" />
 
 </div>
 
-<br>
+---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/brunobritodev/awesome-github-stats">
-    <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/bluezly?cardType=level&theme=tokyonight&preferLogin=false"
-      alt="My Awesome GitHub Stats"
-    />
-  </a>
-</div>
-
-<br>
-
-
-## 🚀 Featured Projects
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/">
-          <img src="https://img.shields.io/badge/Age_Calculator-Visit-blue?style=for-the-badge&labelColor=000000" />
-        </a>
-        <p><small>Simple age calculator with clean UI</small></p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/">
-          <img src="https://img.shields.io/badge/URL_Shortener-Visit-orange?style=for-the-badge&labelColor=000000" />
-        </a>
-        <p><small>Fast and reliable URL shortening service</small></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/">
-          <img src="https://img.shields.io/badge/Quranic_Verse_Randomizer-Visit-green?style=for-the-badge&labelColor=000000" />
-        </a>
-        <p><small>Random Quranic verses with beautiful design</small></p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://bluezly.exid.me/projects/">
-          <img src="https://img.shields.io/badge/Random_Images_Gallery-Visit-purple?style=for-the-badge&labelColor=000000" />
-        </a>
-        <p><small>Dynamic image gallery application</small></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://bluezly.exid.me/projects/">
-          <img src="https://img.shields.io/badge/Opiacraft_Game_Server-Visit-red?style=for-the-badge&labelColor=000000" />
-        </a>
-        <p><small>Custom Minecraft server with unique features</small></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bluezly&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 📫 Get In Touch
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluezly&layout=compact&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  <a href="https://www.bluezly.exid.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF6C37?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="mailto:bluezlydrops@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://calendly.com/ooffaster/" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-Schedule_Meeting-00A2FF?style=for-the-badge&labelColor=000000" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bluezly&label=Profile+Views&color=00F5FF&style=flat-square&labelColor=000000" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
