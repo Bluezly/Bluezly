@@ -2,12 +2,12 @@
 
 # Bluezly
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rust+Developer;Backend+Developer;Minecraft+Tools+%26+Plugins;Web+Projects+and+Developer+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Rust+Developer;Backend+Developer;Minecraft+Tools+%26+Plugins;Web+Projects+and+Developer+Tools" />
 
 <br>
 
 <a href="https://bluezly.exid.me">
-  <img src="https://img.shields.io/badge/Website-bluezly.exid.me-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Website-bluezly.exid.me-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
@@ -18,12 +18,13 @@
 
 Hi, I'm Bluezly.
 
-I build backend tools, web utilities, and developer projects.  
-A lot of my work is written in Rust and Java, and I also work on Minecraft plugins and server-related tools.
+I build backend tools, web utilities, and developer projects.
 
-I use a wide range of technologies depending on the project, including Go, JavaScript, TypeScript, databases, and other backend tooling.
+Most of my work is written in **Rust** and **Java**, and I also develop **Minecraft plugins and server tools**.
 
-Most of the things here started as experiments, side projects, or tools I wanted to build for myself.
+I use many technologies depending on the project, including **Go, JavaScript, TypeScript, databases, and backend tooling**.
+
+Most of what I build starts as experiments or small tools that later turn into full projects.
 
 ---
 
@@ -42,7 +43,7 @@ Most of the things here started as experiments, side projects, or tools I wanted
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,java,go,nodejs,ts,js,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,go,java,nodejs,ts,js,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -52,7 +53,7 @@ Most of the things here started as experiments, side projects, or tools I wanted
 
 <div align="center">
 
-<img src="https://test-iota-blush-51.vercel.app/api/badge?pkg=securecrypt" alt="SecureCrypt" />
+<img src="https://test-iota-blush-51.vercel.app/api/badge?pkg=securecrypt" />
 
 </div>
 
@@ -62,8 +63,8 @@ Most of the things here started as experiments, side projects, or tools I wanted
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bluezly&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bluezly&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluezly&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluezly&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
