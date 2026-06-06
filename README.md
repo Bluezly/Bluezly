@@ -43,7 +43,7 @@ Most of what I build starts as experiments or small tools that later turn into f
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,java,nodejs,ts,js,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,go,java,nodejs,ts,js,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,linux,vscode,arduino&theme=dark" />
 
 </div>
 
